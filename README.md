@@ -1,8 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandrowissmann&label=Profile%20views&color=0e75b6&style=flat" alt="sandrowissmann" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandro wißmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sandro wißmann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandrowissmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sandro wißmann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,3 +9,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrowissmann&show_icons=true&locale=en&layout=compact" alt="sandrowissmann" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandrowissmann&show_icons=true&locale=en" alt="sandrowissmann" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandrowissmann&label=Profile%20views&color=0e75b6&style=flat" alt="sandrowissmann" /> </p>
